@@ -1,6 +1,7 @@
 import { showLoader } from '../loader/loader';
 
-const KEY = 'api-key=ccA9QsXbvrHhGuvowEcHjyxEU2jAukPO';
+const KEY = 'api-key=3HHtrx1v9QZUfdmskYGXIqIWRgxdBdcv';
+
 const BASE_URL = 'https://api.nytimes.com/svc';
 
 async function getPopular() {
